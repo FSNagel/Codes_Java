@@ -13,7 +13,7 @@ class Conta{
     return true;
   }
 
-  boolean deposita(double valor){
+  boolean deposito(double valor){
     this.saldo+=valor;
     return true;
   }

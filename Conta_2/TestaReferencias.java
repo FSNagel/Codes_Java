@@ -1,8 +1,8 @@
 class TestaReferencias{
   public static void main(String args[]){
       Conta c1 = new Conta();
-      c1.deposita(100);
-      if(c1.deposito(200)){
+
+      if(c1.deposito(100)){
         System.out.println("Depósito efetuado com sucesso!");
         System.out.println("Saldo atualizado é: " + c1.saldo);
       }
