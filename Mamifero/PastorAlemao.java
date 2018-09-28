@@ -5,6 +5,7 @@ public class PastorAlemao extends Cachorro {
   }
 
   public void latir() {
+    super.latir();
     System.out.println("Woof Woof!");
   }
 }
