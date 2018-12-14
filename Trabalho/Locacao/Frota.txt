@@ -1,0 +1,4 @@
+1;Chevrolet;Cobolt - 2018;AED-1586;1403.0
+2;Fiat;Uno - 2015;POB-1854;1356.0
+3;Ford;KA - 2017;LKM-7342 ;553.0
+4;Renault;Sandero - 2019;NEW-9999;2.0
